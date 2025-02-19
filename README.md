@@ -23,7 +23,7 @@ A proposta é condensar diversas tecnologias de mercado em um único projeto, pe
 - **Front-end:**
   - **Framework:** React com Next.js (para SSR e performance)
   - **Linguagem:** TypeScript (garante robustez e manutenção)
-  - **Estilização:** Tailwind CSS e Styled Components
+  - **Estilização:** Tailwind CSS
 
 - **Back-end:**
   - **Linguagem & Framework:** C# com ASP.NET Core (para construir uma API RESTful; possibilidade de endpoints GraphQL)
