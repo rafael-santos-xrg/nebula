@@ -18,8 +18,6 @@ Pedi para que a própia IA criasse um resumo do desafio explicitando as regras p
 
 A proposta é condensar diversas tecnologias de mercado em um único projeto, permitindo que você aprenda e integre de forma prática tecnologias modernas e práticas de DevOps, testes e automação.
 
---
-
 ## Tecnologias Fundamentais
 
 - **Front-end:**
@@ -43,8 +41,6 @@ A proposta é condensar diversas tecnologias de mercado em um único projeto, pe
 
 - **Hospedagem/Cloud:**
   - Deploy na AWS ou Azure, com suporte a escalabilidade e container orchestration.
-
---
 
 ## Roadmap do Projeto
 
@@ -74,8 +70,6 @@ O desenvolvimento do Nebula será dividido em três estágios principais, cada u
 - [ ] **Versionamento e Deploy Local:**  
   - Versionar o código no GitHub e configurar deploy inicial via Docker.
 
---
-
 ### 2. Versão Ideal – "A Experiência Estelar Completa"
 
 *Objetivo: Expandir o sistema com funcionalidades avançadas para uma experiência de usuário robusta.*
@@ -102,8 +96,6 @@ O desenvolvimento do Nebula será dividido em três estágios principais, cada u
 - [ ] **Hospedagem Escalável:**  
   - Realizar o deploy final em um ambiente escalável na AWS ou Azure.
 
---
-
 ### 3. Horizontes Futuros – "Pontos para Astronômicas Melhorias"
 
 *Objetivo: Inovar e agregar funcionalidades que transformem o Nebula em um ecossistema referência.*
@@ -125,8 +117,6 @@ O desenvolvimento do Nebula será dividido em três estágios principais, cada u
 
 - [ ] **Acessibilidade e Internacionalização:**  
   - Ampliar a aplicação para múltiplos idiomas e garantir conformidade com as diretrizes de acessibilidade (WCAG).
-
---
 
 ## Observações
 
